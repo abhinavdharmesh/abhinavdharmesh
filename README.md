@@ -1,6 +1,6 @@
 Languages and Tools <p><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdharmesh&theme=dark&border_radius=3)](https://git.io/streak-stats"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinavdharmesh&theme=react&line_height=40&hide=css"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdharmesh&theme=dark&border_radius=3)](https://git.io/streak-stats"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinavdharmesh&theme=dark&line_height=40&hide=css"/>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavdharmesh&theme=react-dark"/>
 
