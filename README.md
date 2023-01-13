@@ -3,7 +3,5 @@ Languages and Tools <p><img src="https://raw.githubusercontent.com/devicons/devi
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavdharmesh&theme=react-dark"/>
 
-
-
 ![](https://komarev.com/ghpvc/?username=abhinavdharmesh)
 
