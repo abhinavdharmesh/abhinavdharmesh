@@ -4,7 +4,7 @@ Languages and Tools <p><img src="https://raw.githubusercontent.com/devicons/devi
   <img src="https://raw.githubusercontent.com/dharmeshabhinav/assets/main/No_image.svg.png" alt="sus_spacer" width="170" height="40"/><img src="https://github-readme-stats.vercel.app/api?username=abhinavdharmesh&show_icons=true&theme=react" >
 
 
-<p><img src ="https://streak-stats.demolab.com/?user=abhinavdharmesh&theme=dark" height="500px"/><img src="https://raw.githubusercontent.com/dharmeshabhinav/assets/main/No_image.svg.png" alt="sus_spacer" width="20" height="40"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinavdharmesh&theme=dark"/></p>
+<p><img src ="https://streak-stats.demolab.com/?user=abhinavdharmesh&theme=dark" height="240px"/><img src="https://raw.githubusercontent.com/dharmeshabhinav/assets/main/No_image.svg.png" alt="sus_spacer" width="20" height="40"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinavdharmesh&theme=dark"/></p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdharmesh&hide_border=true&theme=react&dark"/>
 
