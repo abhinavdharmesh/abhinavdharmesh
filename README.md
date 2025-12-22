@@ -1,1 +1,1 @@
-<img src="https://www.iap.kit.edu/corsika/img/trafix15pr05.gif"/>
+![Air Shower Simulation](assets/trafix15pr05.gif)
