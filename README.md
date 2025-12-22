@@ -1,2 +1,2 @@
-![Air Shower Simulation](abhinavdharmesh.github.io/trafix15pr05.gif)
+![Air Shower Simulation](abhinavdharmesh/trafix15pr05.gif)
 
