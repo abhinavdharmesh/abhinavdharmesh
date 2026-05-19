@@ -49,7 +49,7 @@
 
     <div style={{ display: 'flex', alignItems: 'center', width: '100%' }}>
       <span style={{ color: '#98c379', fontWeight: 'bold', width: '120px', display: 'flex' }}>$ role</span>
-      <span style={{ color: '#94a3b8', display: 'flex' }}>Physics Undergraduate & Computational Data Engineer</span>
+      <span style={{ color: '#94a3b8', display: 'flex' }}>Physics Undergraduate</span>
     </div>
 
     <div style={{ display: 'flex', alignItems: 'flex-start', width: '100%', marginTop: '4px' }}>
